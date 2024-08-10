@@ -1,0 +1,59 @@
+{
+  "qInfo": {
+    "qId": "wWftm",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Religion"
+    ],
+    "qFieldLabels": [
+      "Religion"
+    ],
+    "qLabelExpression": "Only({<Sequence={17}>} [$(=vDataLanguage)])",
+    "qAlias": "Religion",
+    "title": "Religion",
+    "coloring": {
+      "changeHash": "0.342156568637346",
+      "hasValueColors": true,
+      "colorMapRef": "wWftm"
+    }
+  },
+  "qMetaDef": {
+    "title": "Religion",
+    "description": "",
+    "tags": []
+  },
+  "_ColorMapModel": {
+    "qInfo": {
+      "qId": "ColorMapModel_wWftm",
+      "qType": "ColorMap"
+    },
+    "qMeta": {},
+    "colorMap": {
+      "colors": [
+        {
+          "value": "Christian",
+          "baseColor": {
+            "color": "#CC6677",
+            "index": -1
+          }
+        },
+        {
+          "value": "Muslim",
+          "baseColor": {
+            "color": "#6699CC",
+            "index": -1
+          }
+        }
+      ],
+      "nul": null,
+      "oth": null,
+      "pal": null,
+      "single": null,
+      "usePal": true,
+      "autoFill": true
+    }
+  }
+}

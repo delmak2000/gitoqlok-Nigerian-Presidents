@@ -1,0 +1,1171 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "c0a511bf-4391-4850-b808-071b2b061549",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "About Nigeria Presidents",
+      "description": ""
+    },
+    "creationDate": "2024-07-25T15:30:47.264Z",
+    "rank": -2.5,
+    "thumbnail": {
+      "qStaticContentUrlDef": {
+        "qUrl": "/media/President Photos/Sheet Thumbnail/Thumbnail 1 - 2.png"
+      }
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [
+      {
+        "name": "c279b276-0d4a-4d03-bb4e-80ae9f82f092",
+        "type": "text-image",
+        "col": 23,
+        "row": 0,
+        "colspan": 1,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 95.83333333333334,
+          "width": 4.166666666666666,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "e7f72ea4-3ea4-4eb9-81cf-407483de6906",
+        "type": "sn-shape",
+        "col": 23,
+        "row": 1,
+        "colspan": 1,
+        "rowspan": 11,
+        "bounds": {
+          "y": 8.333333333333332,
+          "x": 95.83333333333334,
+          "width": 4.166666666666666,
+          "height": 91.66666666666666
+        }
+      },
+      {
+        "name": "09d9f545-eee3-4857-886a-4791f5fd3591",
+        "type": "action-button",
+        "col": 5,
+        "row": 0,
+        "colspan": 1,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 20.833333333333336,
+          "width": 4.166666666666666,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "0a25d210-28c0-4f59-9673-c8420159b38b",
+        "type": "action-button",
+        "col": 0,
+        "row": 0,
+        "colspan": 1,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 0,
+          "width": 4.166666666666666,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "uMFW",
+        "type": "action-button",
+        "col": 1,
+        "row": 0,
+        "colspan": 4,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 4.166666666666666,
+          "width": 16.666666666666664,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "SMsyjes",
+        "type": "filterpane",
+        "col": 6,
+        "row": 0,
+        "colspan": 17,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 25,
+          "width": 70.83333333333334,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "ZVPEMe",
+        "type": "action-button",
+        "col": 0,
+        "row": 9,
+        "colspan": 6,
+        "rowspan": 1,
+        "bounds": {
+          "y": 75,
+          "x": 0,
+          "width": 25,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "QqmAuqj",
+        "type": "sn-text",
+        "col": 6,
+        "row": 9,
+        "colspan": 17,
+        "rowspan": 1,
+        "bounds": {
+          "y": 75,
+          "x": 25,
+          "width": 70.83333333333334,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "qSQm",
+        "type": "action-button",
+        "col": 0,
+        "row": 10,
+        "colspan": 6,
+        "rowspan": 1,
+        "bounds": {
+          "y": 83.33333333333334,
+          "x": 0,
+          "width": 25,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "VuwFp",
+        "type": "sn-text",
+        "col": 6,
+        "row": 10,
+        "colspan": 17,
+        "rowspan": 1,
+        "bounds": {
+          "y": 83.33333333333334,
+          "x": 25,
+          "width": 70.83333333333334,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "bBAMCwA",
+        "type": "sn-text",
+        "col": 0,
+        "row": 1,
+        "colspan": 23,
+        "rowspan": 8,
+        "bounds": {
+          "y": 8.333333333333332,
+          "x": 0,
+          "width": 95.83333333333334,
+          "height": 66.66666666666666
+        }
+      }
+    ],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridMode": "edit",
+    "gridResolution": "small",
+    "components": [
+      {
+        "key": "general",
+        "auto": false,
+        "bgImage": {
+          "mode": "media",
+          "mediaUrl": {
+            "qStaticContentUrlDef": {}
+          },
+          "position": "top-right",
+          "sizing": "original"
+        }
+      }
+    ],
+    "labelExpression": {
+      "qStringExpression": {
+        "qExpr": "=Only({<Sequence={28}>} [$(=vDataLanguage)])"
+      }
+    },
+    "layoutOptions": {
+      "extendable": false,
+      "sheetMode": "RESPONSIVE"
+    },
+    "height": 100
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "e7f72ea4-3ea4-4eb9-81cf-407483de6906",
+          "qType": "sn-shape"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "shape": {
+          "orientation": "vertical",
+          "position": "center",
+          "style": {
+            "stroke": {
+              "colorByExpression": false,
+              "color": {
+                "index": 15
+              },
+              "colorExpression": "",
+              "width": 1,
+              "dash": {
+                "enabled": false,
+                "length": 8,
+                "spacing": 2
+              }
+            }
+          },
+          "type": "line"
+        },
+        "visualization": "sn-shape",
+        "version": "1.1.2",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "line-object",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Line",
+          "description": "Add vertical or horizontal lines with adjustable color and size. Use lines to divide objects, group parts, or to add flair to your dashboard.",
+          "template": "sn-shape",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "1.1.2",
+          "author": "QlikTech International AB",
+          "preview": "",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "bBAMCwA",
+          "qType": "sn-text"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Only({<Sequence={34}>} [$(=vDataLanguage)])",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAggrFunc": "None",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "numFormatFromTemplate": true,
+                "cId": "PCUuhUP"
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Only({<Sequence={35}>} [$(=vDataLanguage)])",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAggrFunc": "None",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "ZCEkQ",
+                "numFormatFromTemplate": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Only({<Sequence={36}>} [$(=vDataLanguage)])",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAggrFunc": "None",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "numFormatFromTemplate": true,
+                "cId": "MPvmGM"
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Only({<Sequence={37}>} [$(=vDataLanguage)])",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAggrFunc": "None",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "Xmzr",
+                "numFormatFromTemplate": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Only({<Sequence={38}>} [$(=vDataLanguage)])",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAggrFunc": "None",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "kZazXp",
+                "numFormatFromTemplate": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            3,
+            4
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 500,
+              "qHeight": 10
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qDynamicScript": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            }
+          }
+        },
+        "script": "",
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "visualization": "sn-text",
+        "version": "1.1.4",
+        "text": "{\"root\":{\"children\":[{\"children\":[{\"expressionId\":\"PCUuhUP\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"18px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"font-size: 18px;\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"expressionId\":\"MPvmGM\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"18px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"expressionId\":\"ZCEkQ\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"18px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"expressionId\":\"Xmzr\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"18px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"font-size: 18px;\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"expressionId\":\"kZazXp\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"18px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"font-size: 18px;\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"font-size: 18px;\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+        "fontsUsed": [],
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "text-object",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Text",
+          "description": "Display text, links, and measures. Add tables with rows and columns. Format and color the text. Add background image and color.",
+          "template": "sn-text",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "1.1.4",
+          "author": "QlikTech International AB",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        },
+        "appId": "C:\\Users\\Qlik\\Documents\\Qlik\\Sense\\Apps\\Nigerian Presidents.qvf"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "0a25d210-28c0-4f59-9673-c8420159b38b",
+          "qType": "action-button"
+        },
+        "qExtendsId": "5bab5e2b-43e7-4f4b-9180-f5749dcd0f89",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "SMsyjes",
+          "qType": "filterpane"
+        },
+        "qExtendsId": "27e062b8-02aa-45b1-854e-d45eddd32ef2",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "c279b276-0d4a-4d03-bb4e-80ae9f82f092",
+          "qType": "text-image"
+        },
+        "qExtendsId": "55cb7b68-7b8b-4170-a925-cf370e2e0397",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "09d9f545-eee3-4857-886a-4791f5fd3591",
+          "qType": "action-button"
+        },
+        "qExtendsId": "94b52384-35d3-4703-aa3d-dbbf788b56c0",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "QqmAuqj",
+          "qType": "sn-text"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Only({<Sequence={39}>} [$(=vDataLanguage)])",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAggrFunc": "None",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "QnaMpM",
+                "numFormatFromTemplate": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 500,
+              "qHeight": 10
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qDynamicScript": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            }
+          }
+        },
+        "script": "",
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "visualization": "sn-text",
+        "version": "1.1.4",
+        "text": "{\"root\":{\"children\":[{\"children\":[{\"expressionId\":\"QnaMpM\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"italic\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"28px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"left\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+        "fontsUsed": [],
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "text-object",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Text",
+          "description": "Display text, links, and measures. Add tables with rows and columns. Format and color the text. Add background image and color.",
+          "template": "sn-text",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "1.1.4",
+          "author": "QlikTech International AB",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "VuwFp",
+          "qType": "sn-text"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Only({<Sequence={40}>} [$(=vDataLanguage)])",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAggrFunc": "None",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "QnaMpM",
+                "numFormatFromTemplate": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 500,
+              "qHeight": 10
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qDynamicScript": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            }
+          }
+        },
+        "script": "",
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "visualization": "sn-text",
+        "version": "1.1.4",
+        "text": "{\"root\":{\"children\":[{\"children\":[{\"expressionId\":\"QnaMpM\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"italic\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"28px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"left\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+        "fontsUsed": [],
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "text-object",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Text",
+          "description": "Display text, links, and measures. Add tables with rows and columns. Format and color the text. Add background image and color.",
+          "template": "sn-text",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "1.1.4",
+          "author": "QlikTech International AB",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        },
+        "appId": "C:\\Users\\Qlik\\Documents\\Qlik\\Sense\\Apps\\Nigerian Presidents.qvf"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "ZVPEMe",
+          "qType": "action-button"
+        },
+        "qMetaDef": {},
+        "runtimeExpressionEvaluation": false,
+        "actions": [],
+        "navigation": {
+          "action": "goToSheet",
+          "appId": "",
+          "sheet": "48b49286-1147-4298-b2f3-bdb15e01612c",
+          "chartId": "",
+          "story": "",
+          "websiteUrl": "",
+          "sameWindow": false,
+          "odagLink": ""
+        },
+        "useEnabledCondition": false,
+        "enabledCondition": 1,
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "style": {
+          "label": {
+            "qStringExpression": {
+              "qExpr": "=Only({<Sequence={39}>} [$(=vDataLanguage)])"
+            }
+          },
+          "showLabel": true,
+          "icon": {
+            "useIcon": true,
+            "iconType": "goto",
+            "position": "right"
+          },
+          "font": {
+            "fontFamily": "Source Sans Pro",
+            "useColorExpression": false,
+            "color": {
+              "index": -1,
+              "color": "#ffffff"
+            },
+            "colorExpression": "",
+            "size": 0.8,
+            "sizeFixed": 20,
+            "sizeBehavior": "responsive",
+            "style": {
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            "align": "left"
+          },
+          "background": {
+            "useColorExpression": false,
+            "color": {
+              "index": 12,
+              "color": "#b0afae"
+            },
+            "colorExpression": "",
+            "mode": "none",
+            "useImage": false,
+            "url": {
+              "qStaticContentUrlDef": {}
+            },
+            "size": "auto",
+            "position": "centerCenter"
+          },
+          "border": {
+            "useColorExpression": false,
+            "color": {
+              "index": -1,
+              "color": "none"
+            },
+            "colorExpression": "",
+            "useBorder": false,
+            "radius": 0,
+            "width": 0
+          }
+        },
+        "components": [
+          {
+            "key": "general"
+          }
+        ],
+        "visualization": "action-button",
+        "version": "1.36.1",
+        "appId": "Y:\\Project\\Qlik\\Demo\\AUM\\Retail Investment Dashboard 1.0.qvf"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "qSQm",
+          "qType": "action-button"
+        },
+        "qMetaDef": {},
+        "runtimeExpressionEvaluation": false,
+        "actions": [],
+        "navigation": {
+          "action": "goToSheet",
+          "appId": "",
+          "sheet": "FnqBzUz",
+          "chartId": "",
+          "story": "",
+          "websiteUrl": "",
+          "sameWindow": false,
+          "odagLink": ""
+        },
+        "useEnabledCondition": false,
+        "enabledCondition": 1,
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "style": {
+          "label": {
+            "qStringExpression": {
+              "qExpr": "=Only({<Sequence={40}>} [$(=vDataLanguage)])"
+            }
+          },
+          "showLabel": true,
+          "icon": {
+            "useIcon": true,
+            "iconType": "goto",
+            "position": "right"
+          },
+          "font": {
+            "fontFamily": "Source Sans Pro",
+            "useColorExpression": false,
+            "color": {
+              "index": -1,
+              "color": "#ffffff"
+            },
+            "colorExpression": "",
+            "size": 0.8,
+            "sizeFixed": 20,
+            "sizeBehavior": "responsive",
+            "style": {
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            "align": "left"
+          },
+          "background": {
+            "useColorExpression": false,
+            "color": {
+              "index": 12,
+              "color": "#b0afae"
+            },
+            "colorExpression": "",
+            "mode": "none",
+            "useImage": false,
+            "url": {
+              "qStaticContentUrlDef": {}
+            },
+            "size": "auto",
+            "position": "centerCenter"
+          },
+          "border": {
+            "useColorExpression": false,
+            "color": {
+              "index": -1,
+              "color": "none"
+            },
+            "colorExpression": "",
+            "useBorder": false,
+            "radius": 0,
+            "width": 0
+          }
+        },
+        "components": [
+          {
+            "key": "general"
+          }
+        ],
+        "visualization": "action-button",
+        "version": "1.36.1",
+        "appId": "C:\\Users\\Qlik\\Documents\\Qlik\\Sense\\Apps\\Nigerian Presidents.qvf"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "uMFW",
+          "qType": "action-button"
+        },
+        "qExtendsId": "a285635e-f0c0-40ee-9f76-81f289e5d6bd",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    }
+  ]
+}

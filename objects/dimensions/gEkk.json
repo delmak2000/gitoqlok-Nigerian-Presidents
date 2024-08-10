@@ -1,0 +1,28 @@
+{
+  "qInfo": {
+    "qId": "gEkk",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Party"
+    ],
+    "qFieldLabels": [
+      "Party"
+    ],
+    "qLabelExpression": "Only({<Sequence={8}>} [$(=vDataLanguage)])",
+    "qAlias": "Party",
+    "title": "Party",
+    "coloring": {
+      "changeHash": "0.31478948711698695",
+      "hasValueColors": false,
+      "colorMapRef": "gEkk"
+    }
+  },
+  "qMetaDef": {
+    "title": "Party",
+    "description": "",
+    "tags": []
+  }
+}

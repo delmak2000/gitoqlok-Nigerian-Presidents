@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "acbfa407-2065-446d-ba26-9331447d7638",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vDataLanguage",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "=Language",
+  "tags": []
+}

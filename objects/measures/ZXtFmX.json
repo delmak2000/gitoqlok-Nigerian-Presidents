@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "ZXtFmX",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "No of Presidents",
+    "qDef": "Count(No)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "Only({<Sequence={49}>} [$(=vDataLanguage)])",
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "No of Presidents",
+    "description": "",
+    "tags": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "fff71c25-7a31-4125-84c8-ff7b0801cc9d",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "1 - Nnamdi Azikwe 1960",
+      "description": "",
+      "tags": []
+    },
+    "qHyperCubeDef": {
+      "qDimensions": [],
+      "qMeasures": [
+        {
+          "qDef": {
+            "qTags": [],
+            "qGrouping": "N",
+            "qDef": "' '",
+            "qNumFormat": {
+              "qType": "U",
+              "qnDec": 10,
+              "qUseThou": 0
+            },
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qExpressions": [],
+            "autoSort": true,
+            "cId": "AXRez",
+            "numFormatFromTemplate": true
+          },
+          "qSortBy": {
+            "qSortByNumeric": -1,
+            "qSortByLoadOrder": 1,
+            "qExpression": {}
+          },
+          "qAttributeExpressions": [],
+          "qAttributeDimensions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qTrendLines": [],
+          "qMiniChartDef": {
+            "qSortBy": {
+              "qExpression": {}
+            },
+            "qOtherTotalSpec": {
+              "qOtherMode": "OTHER_OFF",
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qForceBadValueKeeping": true,
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qTotalMode": "TOTAL_OFF",
+              "qReferencedExpression": {}
+            },
+            "qMaxNumberPoints": -1,
+            "qAttributeExpressions": []
+          }
+        }
+      ],
+      "qInterColumnSortOrder": [
+        0
+      ],
+      "qInitialDataFetch": [
+        {
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 1,
+          "qHeight": 1
+        }
+      ],
+      "qReductionMode": "N",
+      "qMode": "S",
+      "qPseudoDimPos": -1,
+      "qNoOfLeftDims": -1,
+      "qMaxStackedCells": 5000,
+      "qCalcCond": {},
+      "qTitle": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qExpansionState": [],
+      "qDynamicScript": [],
+      "qSuppressMeasureTotals": true,
+      "qLayoutExclude": {
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qDynamicScript": []
+        }
+      }
+    },
+    "script": "",
+    "showTitles": false,
+    "title": "Nnamdi Azikwe 1960",
+    "subtitle": "",
+    "footnote": "",
+    "disableNavMenu": false,
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "components": [
+      {
+        "key": "general",
+        "bgImage": {
+          "mode": "media",
+          "mediaUrl": {
+            "qStaticContentUrlDef": {
+              "qUrl": "/media/President Photos/1 - Azikiwe_1960.jpg"
+            }
+          },
+          "sizing": "alwaysFit"
+        }
+      }
+    ],
+    "responsive": "images",
+    "markdown": "=[](AXRez)",
+    "images": [],
+    "background": {
+      "isUsed": false,
+      "size": "auto",
+      "position": "topLeft",
+      "url": {}
+    },
+    "visualization": "text-image",
+    "masterVersion": 0.96
+  },
+  "qChildren": []
+}

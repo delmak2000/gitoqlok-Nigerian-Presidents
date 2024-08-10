@@ -1,0 +1,147 @@
+///$tab Main
+SET ThousandSep=',';
+SET DecimalSep='.';
+SET MoneyThousandSep=',';
+SET MoneyDecimalSep='.';
+SET MoneyFormat='#,##0.00;(#,##0.00)';
+SET TimeFormat='h:mm:ss TT';
+SET DateFormat='M/D/YYYY';
+SET TimestampFormat='M/D/YYYY h:mm:ss[.fff] TT';
+SET MonthNames='Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec';
+SET DayNames='Mon;Tue;Wed;Thu;Fri;Sat;Sun';
+
+///$tab presidents
+[Nigerian Presidents]:
+LOAD No, 
+     [First Name], 
+     [Last Names], 
+//      [First Name] & ' ' & [Last Names] & ' ' & [Re-Elected] as Name,
+     [First Name] & ' ' & [Last Names] as [Full Name],
+     No & ' - ' & [First Name] & ' ' & [Last Names] as [Position & Name],     
+     Born, 
+     Died, 
+     If(Len(Trim(Died)) > 0, Died - Born, Year(Today()) - Born) as Age,
+     From - Born as [Age When President],     
+     Origin, 
+     Religion, 
+     Party, 
+     From, 
+     To, 
+     To - From as Term,
+     If([Re-Elected]='*', 'Yes', 'No') as [Re-Elected],
+     Mortality,
+     Region
+FROM
+[lib://Nigerian Presidents - Data/Nigerian Presidents.xlsx]
+(ooxml, embedded labels, table is Sheet1);
+
+
+
+///$tab semantic presidents
+Alias P1 as No, P2 as No;
+
+[Semantic Presidents]:
+Semantic Load
+	Previous(No) as P1,			
+	'Successor' as Relation,
+	No as P2,								
+	'Predecessor' as Relation
+resident [Nigerian Presidents]; // where Exists('Sequence',P1) and Exists('Sequence',P2);
+///$tab brief
+[Nigerian Presidents Brief]:
+LOAD No, 
+     Brief
+FROM
+[lib://Nigerian Presidents - Data/brief.xlsx]
+(ooxml, embedded labels, table is Sheet1);
+
+///$tab facts
+[Nigerian Presidents Facts]:
+LOAD No, 
+     Fact1 as [Description 1], 
+     Fact2 as [Description 2]
+FROM
+[lib://Nigerian Presidents - Data/facts.xlsx]
+(ooxml, embedded labels, table is Sheet1);
+
+///$tab photo
+// [Nigerian Presidents Photos]:
+// Bundle LOAD 
+// 	 No, 
+//      Photo
+// FROM
+// [lib://Nigerian Presidents%20-%20Photo/President photos.xlsx]
+// (ooxml, embedded labels, table is Sheet1);
+
+
+
+[Nigerian Presidents Photos]:
+Load * Inline [
+No, Photo
+1, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/1%20-%20Azikiwe_1960.jpg'
+2, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/2%20-%20Aguiyi_Ironsi.jpg'
+3, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/3%20-%20Yakubu_1966.jpg'
+4, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/4%20-%20Muritala_Mohammed.jpg'
+5, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/5%20-%20Olusegun_Obasanjo.jpg'
+6, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/6%20-%20Shagari_1979.jpg'
+7, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/7%20-%20Buhari_1983.jpg'
+8, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/8%20-%20Babangida_1985.jpg'
+9, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/9%20-%20Ernest_Shonekan.jpg'
+10, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/10%20-%20Sani_Abacha.jpg'
+11, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/11%20-%20Abubakar_1998.jpg'
+12, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/12%20-%20Obasanjo_1999.jpg'
+13, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/13%20-%20Yaradua_2007.jpg'
+14, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/14%20-%20Goodluck_Jonathan.jpg'
+15, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/15%20-%20Buhari_2015.jpg'
+16, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/16%20-%20Bola_Tinubu_2023.jpg'
+];
+
+
+// "C:\Users\Qlik\Documents\Qlik\Sense\Content\Default\President Photos\1 - Azikiwe_1960.jpg"
+
+//http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/1%20-%20Azikiwe_1960.jpg
+///$tab party
+//[Nigerian Presidents Party]:
+//LOAD [Party No], 
+//     Fact
+//FROM
+//[lib://Nigerian Presidents - Data/party.xlsx]
+//(ooxml, embedded labels, table is Sheet1);
+
+
+///$tab language
+Language:
+LOAD
+    Language
+FROM [lib://Nigerian Presidents - Data/Languages.xlsx]
+(ooxml, embedded labels, table is Sheet1);
+
+
+
+// CrossTable(Language , Statement)
+// LOAD Nom, 
+//      Hausa, 
+//      Igbo, 
+//      Yoruba, 
+//      English
+// FROM
+// [lib://Nigerian Presidents - Data/Trans.xlsx]
+// (ooxml, embedded labels, table is Sheet1);
+///$tab translations
+Translations:
+LOAD
+    Sequence,
+    English,
+    Yoruba,
+    Hausa,
+    Igbo
+FROM [lib://Nigerian Presidents - Data/Translations.xlsx]
+(ooxml, embedded labels, table is Sheet2);
+///$tab application info
+[Application Info]:
+LOAD
+    Help,
+    Inf AS "Info"
+FROM [lib://Nigerian Presidents - Data/AppInfo.xls]
+(biff, embedded labels, table is Sheet1$);
+

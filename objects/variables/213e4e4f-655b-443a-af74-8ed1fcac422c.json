@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "213e4e4f-655b-443a-af74-8ed1fcac422c",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vNo",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "=Only(No)",
+  "tags": []
+}

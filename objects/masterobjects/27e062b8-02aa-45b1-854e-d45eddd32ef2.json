@@ -1,0 +1,94 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "27e062b8-02aa-45b1-854e-d45eddd32ef2",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "Language Filter",
+      "description": "",
+      "tags": []
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "disableNavMenu": false,
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "visualization": "filterpane",
+    "version": "0.18.1",
+    "qChildListDef": {
+      "qData": {}
+    },
+    "masterVersion": 0.96
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "a71ca1c6-440f-444b-a4af-ec06638cd682",
+          "qType": "listbox"
+        },
+        "qMetaDef": {},
+        "qListObjectDef": {
+          "qDef": {
+            "qGrouping": "N",
+            "qFieldDefs": [
+              "Language"
+            ],
+            "qFieldLabels": [
+              ""
+            ],
+            "qSortCriterias": [
+              {
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              }
+            ],
+            "qNumberPresentations": [],
+            "qActiveField": 0,
+            "autoSort": false,
+            "cId": "jqZSpBT",
+            "textAlign": {
+              "auto": false,
+              "align": "center"
+            }
+          },
+          "qFrequencyMode": "N",
+          "qShowAlternatives": true,
+          "qInitialDataFetch": [],
+          "qExpressions": [],
+          "showTitles": true,
+          "title": "",
+          "subtitle": "",
+          "footnote": "",
+          "disableNavMenu": false,
+          "showDetails": true,
+          "showDetailsExpression": false,
+          "qOtherTotalSpec": {}
+        },
+        "showTitles": true,
+        "title": {
+          "qStringExpression": {
+            "qExpr": "=Only({<Sequence={23}>} [$(=vDataLanguage)])"
+          }
+        },
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "visualization": "listbox",
+        "autoConfirm": true,
+        "showTitle": false,
+        "layoutOptions": {
+          "dataLayout": "grid",
+          "layoutOrder": "column"
+        },
+        "searchEnabled": false
+      },
+      "qChildren": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+///$tab translations
+Translations:
+LOAD
+    Sequence,
+    English,
+    Yoruba,
+    Hausa,
+    Igbo
+FROM [lib://Nigerian Presidents - Data/Translations.xlsx]
+(ooxml, embedded labels, table is Sheet2);

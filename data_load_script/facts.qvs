@@ -1,0 +1,8 @@
+///$tab facts
+[Nigerian Presidents Facts]:
+LOAD No, 
+     Fact1 as [Description 1], 
+     Fact2 as [Description 2]
+FROM
+[lib://Nigerian Presidents - Data/facts.xlsx]
+(ooxml, embedded labels, table is Sheet1);

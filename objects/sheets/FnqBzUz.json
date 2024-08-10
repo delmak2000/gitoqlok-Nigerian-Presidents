@@ -1,0 +1,2151 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "FnqBzUz",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Nigeria President's Profile",
+      "description": ""
+    },
+    "creationDate": "2024-07-25T15:30:47.264Z",
+    "rank": -1,
+    "thumbnail": {
+      "qStaticContentUrlDef": {
+        "qUrl": "/media/President Photos/Sheet Thumbnail/Thumbnail 2 - 3.png"
+      }
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [
+      {
+        "name": "Qvajzp",
+        "type": "filterpane",
+        "col": 0,
+        "row": 10,
+        "colspan": 6,
+        "rowspan": 1,
+        "bounds": {
+          "y": 83.33333333333334,
+          "x": 0,
+          "width": 25,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "hChxZw",
+        "type": "sn-layout-container",
+        "col": 15,
+        "row": 1,
+        "colspan": 8,
+        "rowspan": 5,
+        "bounds": {
+          "y": 8.333333333333332,
+          "x": 62.5,
+          "width": 33.33333333333333,
+          "height": 41.66666666666667
+        }
+      },
+      {
+        "name": "EZrCfA",
+        "type": "sn-text",
+        "col": 7,
+        "row": 7,
+        "colspan": 16,
+        "rowspan": 5,
+        "bounds": {
+          "y": 58.333333333333336,
+          "x": 29.166666666666668,
+          "width": 66.66666666666666,
+          "height": 41.66666666666667
+        }
+      },
+      {
+        "name": "rtSjcM",
+        "type": "sn-layout-container",
+        "col": 7,
+        "row": 1,
+        "colspan": 8,
+        "rowspan": 5,
+        "bounds": {
+          "y": 8.333333333333332,
+          "x": 29.166666666666668,
+          "width": 33.33333333333333,
+          "height": 41.66666666666667
+        }
+      },
+      {
+        "name": "akRmEjr",
+        "type": "text-image",
+        "col": 23,
+        "row": 0,
+        "colspan": 1,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 95.83333333333334,
+          "width": 4.166666666666666,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "yWuRJj",
+        "type": "sn-shape",
+        "col": 7,
+        "row": 6,
+        "colspan": 16,
+        "rowspan": 1,
+        "bounds": {
+          "y": 50,
+          "x": 29.166666666666668,
+          "width": 66.66666666666666,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "FmmEQm",
+        "type": "sn-shape",
+        "col": 23,
+        "row": 1,
+        "colspan": 1,
+        "rowspan": 11,
+        "bounds": {
+          "y": 8.333333333333332,
+          "x": 95.83333333333334,
+          "width": 4.166666666666666,
+          "height": 91.66666666666666
+        }
+      },
+      {
+        "name": "sTzxzc",
+        "type": "sn-shape",
+        "col": 0,
+        "row": 11,
+        "colspan": 6,
+        "rowspan": 1,
+        "bounds": {
+          "y": 91.66666666666666,
+          "x": 0,
+          "width": 25,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "majXamL",
+        "type": "sn-shape",
+        "col": 6,
+        "row": 0,
+        "colspan": 1,
+        "rowspan": 12,
+        "bounds": {
+          "y": 0,
+          "x": 25,
+          "width": 4.166666666666666,
+          "height": 100
+        }
+      },
+      {
+        "name": "gXqsPy",
+        "type": "sn-shape",
+        "col": 0,
+        "row": 9,
+        "colspan": 6,
+        "rowspan": 1,
+        "bounds": {
+          "y": 75,
+          "x": 0,
+          "width": 25,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "kpfmBM",
+        "type": "action-button",
+        "col": 1,
+        "row": 0,
+        "colspan": 4,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 4.166666666666666,
+          "width": 16.666666666666664,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "ZmVyNG",
+        "type": "action-button",
+        "col": 5,
+        "row": 0,
+        "colspan": 1,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 20.833333333333336,
+          "width": 4.166666666666666,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "bswkPU",
+        "type": "action-button",
+        "col": 0,
+        "row": 0,
+        "colspan": 1,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 0,
+          "width": 4.166666666666666,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "hYPsew",
+        "type": "filterpane",
+        "col": 7,
+        "row": 0,
+        "colspan": 16,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 29.166666666666668,
+          "width": 66.66666666666666,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "xFvqev",
+        "type": "filterpane",
+        "col": 0,
+        "row": 1,
+        "colspan": 6,
+        "rowspan": 8,
+        "bounds": {
+          "y": 8.333333333333332,
+          "x": 0,
+          "width": 25,
+          "height": 66.66666666666666
+        }
+      }
+    ],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridMode": "edit",
+    "gridResolution": "small",
+    "components": [
+      {
+        "key": "general",
+        "auto": false,
+        "bgImage": {
+          "mode": "media",
+          "mediaUrl": {
+            "qStaticContentUrlDef": {}
+          },
+          "position": "top-right",
+          "sizing": "original"
+        }
+      }
+    ],
+    "labelExpression": {
+      "qStringExpression": {
+        "qExpr": "Only({<Sequence={40}>} [$(=vDataLanguage)])"
+      }
+    }
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "hChxZw",
+          "qType": "sn-layout-container"
+        },
+        "qMetaDef": {},
+        "objects": [
+          {
+            "childRefId": "phkrGqmc",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 16, 1, 0)"
+              }
+            },
+            "label": "16 - Bola Tinubu",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "pZLpjyQp",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 15, 1, 0)"
+              }
+            },
+            "label": "15 - Mohammadu Buhari",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "pCqurBZR",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 14, 1, 0)"
+              }
+            },
+            "label": "14 - Goodluck Jonathan",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "psfPFnsj",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 13, 1, 0)"
+              }
+            },
+            "label": "13 - Umaru Musa Yar'Adua",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "pnJzjtsw",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 12, 1, 0)"
+              }
+            },
+            "label": "12 - Olusegun Obasanjo",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "ppuEpEJw",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 11, 1, 0)"
+              }
+            },
+            "label": "11 - Abdulsalami Abubakar",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "pUzjdvxz",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 10, 1, 0)"
+              }
+            },
+            "label": "10 - Sani Abacha",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "pLnpwpzC",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 9, 1, 0)"
+              }
+            },
+            "label": "9 - Ernest Shonekan",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "pAjukcvs",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 8, 1, 0)"
+              }
+            },
+            "label": "8 - Ibrahim Babangida",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "phHDbztY",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 7, 1, 0)"
+              }
+            },
+            "label": "7 - Mohammadu Buhari",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "pGvpKPVS",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 6, 1, 0)"
+              }
+            },
+            "label": "6 - Shehu Shagari",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "pUjMzPmv",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 5, 1, 0)"
+              }
+            },
+            "label": "5 - Olusegun Obasanjo",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "pnndpFwx",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 4, 1, 0)"
+              }
+            },
+            "label": "4 - Murtala Mohammed",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "AsdBbFg",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 3, 1, 0)"
+              }
+            },
+            "label": "3 - Yakubu Gowon",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "pHzpJmnS",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 2, 1, 0)"
+              }
+            },
+            "label": "2 - Aguiyi Ironsi",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "prxmZhrw",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "If(vNo = 1, 1, 0)"
+              }
+            },
+            "label": "1 - Nnamdi Azikwe",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "constrainToContainer": false,
+        "showGridLines": false,
+        "gridRowCount": 24,
+        "gridColumnCount": 36,
+        "snapToGrid": false,
+        "visualization": "sn-layout-container",
+        "qChildListDef": {
+          "qData": {
+            "visualization": "/visualization",
+            "qExtendsId": "/qExtendsId",
+            "title": "/title",
+            "childRefId": "/childRefId"
+          }
+        },
+        "version": "3.2.1",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "layout-container",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Layout container",
+          "description": "The layout container object has a canvas that can hold multiple objects. In this container you can freely move objects around, as well as position the objects on top of each other or overlapping.",
+          "template": "sn-layout-container",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "3.2.1",
+          "author": "QlikTech International AB",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "947130d0-93d3-42aa-a1d2-f59e4b6942fe",
+              "qType": "childObject"
+            },
+            "qExtendsId": "fff71c25-7a31-4125-84c8-ff7b0801cc9d",
+            "qMetaDef": {},
+            "childRefId": "prxmZhrw"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "123ed6d6-f62f-4146-91f1-d684334889b1",
+              "qType": "childObject"
+            },
+            "qExtendsId": "0770c02a-85ff-4ced-ba26-f71358a26781",
+            "qMetaDef": {},
+            "childRefId": "pHzpJmnS"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "6e9cb835-1da0-4071-87e0-d8b33fbf0a4b",
+              "qType": "childObject"
+            },
+            "qExtendsId": "c52c1fa6-b60b-4b02-ba31-1ea8b30497e6",
+            "qMetaDef": {},
+            "childRefId": "AsdBbFg"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "f1aae6c3-9283-460a-a210-d3ba19446d3b",
+              "qType": "childObject"
+            },
+            "qExtendsId": "27d588fd-8ceb-4284-80bd-c0db2c71256f",
+            "qMetaDef": {},
+            "childRefId": "pnndpFwx"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "84866409-7677-415e-8433-bd2668a25a4e",
+              "qType": "childObject"
+            },
+            "qExtendsId": "bc882577-e8ce-47e6-8ad5-677265f18647",
+            "qMetaDef": {},
+            "childRefId": "phkrGqmc"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "c216fd88-15dd-4999-9290-e9f0fdd6e94b",
+              "qType": "childObject"
+            },
+            "qExtendsId": "9e1b5f03-60b7-4982-99aa-61f5b5d33c78",
+            "qMetaDef": {},
+            "childRefId": "pGvpKPVS"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "2ed43673-20bd-49f6-97e3-3566b957e153",
+              "qType": "childObject"
+            },
+            "qExtendsId": "cc0f1dd2-d58f-4932-9944-42b52e3b9ecc",
+            "qMetaDef": {},
+            "childRefId": "phHDbztY"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "dc74691b-0bf4-4316-b865-2b354b406e0a",
+              "qType": "childObject"
+            },
+            "qExtendsId": "7564fd93-0c92-4e96-b806-c08fe6700783",
+            "qMetaDef": {},
+            "childRefId": "pAjukcvs"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "037371ae-cb96-4f4a-b900-b6133feb26ee",
+              "qType": "childObject"
+            },
+            "qExtendsId": "5e0f4ee3-7acb-4edb-b262-aee8625a7b10",
+            "qMetaDef": {},
+            "childRefId": "pLnpwpzC"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "09ca8337-05e3-43f8-bab7-c837527a5b8b",
+              "qType": "childObject"
+            },
+            "qExtendsId": "b35a5bc3-37c0-43bd-868c-6f5212d2129a",
+            "qMetaDef": {},
+            "childRefId": "pUzjdvxz"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "9a730e6b-361a-40a8-a3f1-d8c59a7c5a7f",
+              "qType": "childObject"
+            },
+            "qExtendsId": "c5e98e04-feaa-4066-b1f6-53f1d309e2cf",
+            "qMetaDef": {},
+            "childRefId": "ppuEpEJw"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "a29b6b56-b280-48ec-8350-c4ac7df75f70",
+              "qType": "childObject"
+            },
+            "qExtendsId": "c514b685-61d6-42a9-98af-8a85ff41d25d",
+            "qMetaDef": {},
+            "childRefId": "pnJzjtsw"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "a2512bb4-5833-4cbd-a61a-976276f77a02",
+              "qType": "childObject"
+            },
+            "qExtendsId": "39972303-932e-42e8-bc62-415c29a0e911",
+            "qMetaDef": {},
+            "childRefId": "psfPFnsj"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "81e3d34f-cdda-4832-991a-dfb7cef6a7fe",
+              "qType": "childObject"
+            },
+            "qExtendsId": "e24eb8ca-411c-42af-b192-2304fa5f9727",
+            "qMetaDef": {},
+            "childRefId": "pCqurBZR"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "4bf0076a-34a7-49b7-80d3-459d2df51c56",
+              "qType": "childObject"
+            },
+            "qExtendsId": "af890489-cbb3-4a4f-8035-994c60aa1584",
+            "qMetaDef": {},
+            "childRefId": "pZLpjyQp"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "011746b7-31e3-42d6-aecb-9dd3aa72ac79",
+              "qType": "childObject"
+            },
+            "qExtendsId": "ec5e2c8b-d328-47f3-9fc0-fb8271810bae",
+            "qMetaDef": {},
+            "childRefId": "pUjMzPmv"
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "rtSjcM",
+          "qType": "sn-layout-container"
+        },
+        "qMetaDef": {},
+        "objects": [
+          {
+            "childRefId": "PCCKBuA",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "=If(vNo > 0, 0, 1)"
+              }
+            },
+            "label": "No Data to display",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "childRefId": "WqZFFrB",
+            "condition": {
+              "qValueExpression": {
+                "qExpr": "=If(vNo > 0, 1, 0)"
+              }
+            },
+            "label": "Display",
+            "bounds": {
+              "height": 100,
+              "width": 100,
+              "x": 0,
+              "y": -3.03206
+            }
+          }
+        ],
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "constrainToContainer": false,
+        "showGridLines": false,
+        "gridRowCount": 24,
+        "gridColumnCount": 36,
+        "snapToGrid": false,
+        "visualization": "sn-layout-container",
+        "qChildListDef": {
+          "qData": {
+            "visualization": "/visualization",
+            "qExtendsId": "/qExtendsId",
+            "title": "/title",
+            "childRefId": "/childRefId"
+          }
+        },
+        "version": "3.2.1",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "layout-container",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Layout container",
+          "description": "The layout container object has a canvas that can hold multiple objects. In this container you can freely move objects around, as well as position the objects on top of each other or overlapping.",
+          "template": "sn-layout-container",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "3.2.1",
+          "author": "QlikTech International AB",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "fe14d67e-3d44-4012-817f-ab3ebd64f97f",
+              "qType": "sn-text"
+            },
+            "qMetaDef": {},
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [
+                {
+                  "qDef": {
+                    "qLabel": "President",
+                    "qTags": [],
+                    "qGrouping": "N",
+                    "qDef": "$(vPresidentName($(vNo)))",
+                    "qNumFormat": {
+                      "qType": "U",
+                      "qnDec": 10,
+                      "qUseThou": 0
+                    },
+                    "qAggrFunc": "None",
+                    "qAccumulate": 0,
+                    "qActiveExpression": 0,
+                    "qExpressions": [],
+                    "autoSort": true,
+                    "numFormatFromTemplate": true,
+                    "cId": "WgBGL"
+                  },
+                  "qSortBy": {
+                    "qSortByNumeric": -1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  },
+                  "qAttributeExpressions": [],
+                  "qAttributeDimensions": [],
+                  "qCalcCond": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qTrendLines": [],
+                  "qMiniChartDef": {
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {},
+                      "qOtherLimit": {},
+                      "qOtherLimitMode": "OTHER_GT_LIMIT",
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qMaxNumberPoints": -1,
+                    "qAttributeExpressions": []
+                  }
+                },
+                {
+                  "qDef": {
+                    "qLabel": "Age when President",
+                    "qTags": [],
+                    "qGrouping": "N",
+                    "qDef": "=Only({<Sequence={47}>} [$(=vDataLanguage)]) & ': ' & Only({< No = {\"$(vNo)\"} >} [Age When President])\r\n\n//='Age (Office): ' &Only({< No = {\"$(vNo)\"} >} [Age When President])\n\n\n//'Year of Birth: ' & Only({< No = {\"$(vNo)\"} >} Born)",
+                    "qNumFormat": {
+                      "qType": "U",
+                      "qnDec": 10,
+                      "qUseThou": 0
+                    },
+                    "qAggrFunc": "None",
+                    "qAccumulate": 0,
+                    "qActiveExpression": 0,
+                    "qExpressions": [],
+                    "autoSort": true,
+                    "numFormatFromTemplate": true,
+                    "cId": "CLcPR"
+                  },
+                  "qSortBy": {
+                    "qSortByNumeric": -1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  },
+                  "qAttributeExpressions": [],
+                  "qAttributeDimensions": [],
+                  "qCalcCond": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qTrendLines": [],
+                  "qMiniChartDef": {
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {},
+                      "qOtherLimit": {},
+                      "qOtherLimitMode": "OTHER_GT_LIMIT",
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qMaxNumberPoints": -1,
+                    "qAttributeExpressions": []
+                  }
+                },
+                {
+                  "qDef": {
+                    "qLabel": "Mortality",
+                    "qTags": [],
+                    "qGrouping": "N",
+                    "qDef": "=Only({<Sequence={9}>} [$(=vDataLanguage)]) & ': ' & Only({< No = {\"$(vNo)\"} >} Mortality)\r\n\n\n/*\n='Age (Today): ' & \nIf(Mortality =  'Alive',\nOnly({< No = {\"$(vNo)\"} >} Age),\nYear(Today())-Only({< No = {\"$(vNo)\"} >} Born) & ' (' & Only({< No = {\"$(vNo)\"} >} Mortality) & ') '\n)\n*/\n\n\n/*\n\n'Age: ' & \nIf(Mortality =  'Alive',\nOnly({< No = {\"$(vNo)\"} >} Age),\nOnly({< No = {\"$(vNo)\"} >} Age) & ' (' & Only({< No = {\"$(vNo)\"} >} Mortality) & ') '\n)\n\n*/",
+                    "qNumFormat": {
+                      "qType": "U",
+                      "qnDec": 10,
+                      "qUseThou": 0
+                    },
+                    "qAggrFunc": "None",
+                    "qAccumulate": 0,
+                    "qActiveExpression": 0,
+                    "qExpressions": [],
+                    "autoSort": true,
+                    "numFormatFromTemplate": true,
+                    "cId": "hGvBFp"
+                  },
+                  "qSortBy": {
+                    "qSortByNumeric": -1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  },
+                  "qAttributeExpressions": [],
+                  "qAttributeDimensions": [],
+                  "qCalcCond": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qTrendLines": [],
+                  "qMiniChartDef": {
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {},
+                      "qOtherLimit": {},
+                      "qOtherLimitMode": "OTHER_GT_LIMIT",
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qMaxNumberPoints": -1,
+                    "qAttributeExpressions": []
+                  }
+                },
+                {
+                  "qDef": {
+                    "qLabel": "Term",
+                    "qTags": [],
+                    "qGrouping": "N",
+                    "qDef": "=Only({<Sequence={54}>} [$(=vDataLanguage)]) & ': ' & Only({< No = {\"$(vNo)\"} >} From)& '-' &Only({< No = {\"$(vNo)\"} >} To)\r\n\n//='Term: ' & Only({< No = {\"$(vNo)\"} >} Term)& ' ' & 'Years'",
+                    "qNumFormat": {
+                      "qType": "U",
+                      "qnDec": 10,
+                      "qUseThou": 0
+                    },
+                    "qAggrFunc": "None",
+                    "qAccumulate": 0,
+                    "qActiveExpression": 0,
+                    "qExpressions": [],
+                    "autoSort": true,
+                    "numFormatFromTemplate": true,
+                    "cId": "hMaER"
+                  },
+                  "qSortBy": {
+                    "qSortByNumeric": -1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  },
+                  "qAttributeExpressions": [],
+                  "qAttributeDimensions": [],
+                  "qCalcCond": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qTrendLines": [],
+                  "qMiniChartDef": {
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {},
+                      "qOtherLimit": {},
+                      "qOtherLimitMode": "OTHER_GT_LIMIT",
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qMaxNumberPoints": -1,
+                    "qAttributeExpressions": []
+                  }
+                },
+                {
+                  "qDef": {
+                    "qLabel": "Origin",
+                    "qTags": [],
+                    "qGrouping": "N",
+                    "qDef": "Only({<Sequence={7}>} [$(=vDataLanguage)]) & ': ' & Only({< No = {\"$(vNo)\"} >} Origin)",
+                    "qNumFormat": {
+                      "qType": "U",
+                      "qnDec": 10,
+                      "qUseThou": 0
+                    },
+                    "qAggrFunc": "None",
+                    "qAccumulate": 0,
+                    "qActiveExpression": 0,
+                    "qExpressions": [],
+                    "autoSort": true,
+                    "numFormatFromTemplate": true,
+                    "cId": "SfCdKQf"
+                  },
+                  "qSortBy": {
+                    "qSortByNumeric": -1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  },
+                  "qAttributeExpressions": [],
+                  "qAttributeDimensions": [],
+                  "qCalcCond": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qTrendLines": [],
+                  "qMiniChartDef": {
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {},
+                      "qOtherLimit": {},
+                      "qOtherLimitMode": "OTHER_GT_LIMIT",
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qMaxNumberPoints": -1,
+                    "qAttributeExpressions": []
+                  }
+                },
+                {
+                  "qDef": {
+                    "qLabel": "Religion",
+                    "qTags": [],
+                    "qGrouping": "N",
+                    "qDef": "Only({<Sequence={17}>} [$(=vDataLanguage)]) & ': ' & Only({< No = {\"$(vNo)\"} >} Religion)",
+                    "qNumFormat": {
+                      "qType": "U",
+                      "qnDec": 10,
+                      "qUseThou": 0
+                    },
+                    "qAggrFunc": "None",
+                    "qAccumulate": 0,
+                    "qActiveExpression": 0,
+                    "qExpressions": [],
+                    "autoSort": true,
+                    "numFormatFromTemplate": true,
+                    "cId": "uXDYWrJ"
+                  },
+                  "qSortBy": {
+                    "qSortByNumeric": -1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  },
+                  "qAttributeExpressions": [],
+                  "qAttributeDimensions": [],
+                  "qCalcCond": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qTrendLines": [],
+                  "qMiniChartDef": {
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {},
+                      "qOtherLimit": {},
+                      "qOtherLimitMode": "OTHER_GT_LIMIT",
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qMaxNumberPoints": -1,
+                    "qAttributeExpressions": []
+                  }
+                }
+              ],
+              "qInterColumnSortOrder": [
+                5
+              ],
+              "qSuppressMissing": true,
+              "qInitialDataFetch": [
+                {
+                  "qLeft": 0,
+                  "qTop": 0,
+                  "qWidth": 500,
+                  "qHeight": 10
+                }
+              ],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": [],
+              "qLayoutExclude": {
+                "qHyperCubeDef": {
+                  "qDimensions": [],
+                  "qMeasures": [],
+                  "qInterColumnSortOrder": [],
+                  "qInitialDataFetch": [],
+                  "qReductionMode": "N",
+                  "qMode": "S",
+                  "qPseudoDimPos": -1,
+                  "qNoOfLeftDims": -1,
+                  "qMaxStackedCells": 5000,
+                  "qCalcCond": {},
+                  "qTitle": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qColumnOrder": [],
+                  "qExpansionState": [],
+                  "qDynamicScript": []
+                }
+              }
+            },
+            "script": "",
+            "showTitles": false,
+            "title": "",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": true,
+            "showDetails": false,
+            "showDetailsExpression": false,
+            "components": [],
+            "visualization": "sn-text",
+            "version": "1.1.4",
+            "text": "{\"root\":{\"children\":[{\"children\":[{\"expressionId\":\"WgBGL\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"20px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"expressionId\":\"CLcPR\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"17px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"expressionId\":\"hGvBFp\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"17px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"expressionId\":\"hMaER\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"17px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"expressionId\":\"SfCdKQf\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"17px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"expressionId\":\"uXDYWrJ\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"17px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "fontsUsed": [],
+            "extensionMeta": {
+              "translationKey": "",
+              "icon": "text-object",
+              "iconChar": "puzzle",
+              "isLibraryItem": true,
+              "visible": true,
+              "IconDefinition": {},
+              "name": "Text",
+              "description": "Display text, links, and measures. Add tables with rows and columns. Format and color the text. Add background image and color.",
+              "template": "sn-text",
+              "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+              "isThirdParty": true,
+              "version": "1.1.4",
+              "author": "QlikTech International AB",
+              "type": "visualization",
+              "supernova": true,
+              "bundle": {
+                "id": "qlik-dashboard-bundle",
+                "name": "Qlik Dashboard bundle",
+                "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+              },
+              "installer": "QlikExtensionBundler"
+            },
+            "childRefId": "WqZFFrB"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "850dcf8e-c7d0-46d1-9545-781ed199f2f7",
+              "qType": "sn-text"
+            },
+            "qMetaDef": {},
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qSuppressMissing": true,
+              "qInitialDataFetch": [
+                {
+                  "qLeft": 0,
+                  "qTop": 0,
+                  "qWidth": 500,
+                  "qHeight": 10
+                }
+              ],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            },
+            "script": "",
+            "showTitles": false,
+            "title": "",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": false,
+            "showDetails": true,
+            "showDetailsExpression": false,
+            "components": [],
+            "visualization": "sn-text",
+            "version": "1.1.4",
+            "text": "{\"root\":{\"children\":[{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":2,\"mode\":\"normal\",\"style\":\"font-size: 24px;\",\"text\":\"Please select a president name to display bio data\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "fontsUsed": [],
+            "extensionMeta": {
+              "translationKey": "",
+              "icon": "text-object",
+              "iconChar": "puzzle",
+              "isLibraryItem": true,
+              "visible": true,
+              "IconDefinition": {},
+              "name": "Text",
+              "description": "Display text, links, and measures. Add tables with rows and columns. Format and color the text. Add background image and color.",
+              "template": "sn-text",
+              "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+              "isThirdParty": true,
+              "version": "1.1.4",
+              "author": "QlikTech International AB",
+              "type": "visualization",
+              "supernova": true,
+              "bundle": {
+                "id": "qlik-dashboard-bundle",
+                "name": "Qlik Dashboard bundle",
+                "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+              },
+              "installer": "QlikExtensionBundler"
+            },
+            "childRefId": "PCCKBuA"
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "hYPsew",
+          "qType": "filterpane"
+        },
+        "qExtendsId": "27e062b8-02aa-45b1-854e-d45eddd32ef2",
+        "qMetaDef": {}
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "73adb8a6-9d16-40aa-bade-1d56ff7456bf",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "Language"
+                ],
+                "qFieldLabels": [
+                  ""
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "jqZSpBT",
+                "textAlign": {
+                  "auto": false,
+                  "align": "center"
+                }
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "showTitles": true,
+              "title": "",
+              "subtitle": "",
+              "footnote": "",
+              "disableNavMenu": false,
+              "showDetails": true,
+              "showDetailsExpression": false,
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": {
+              "qStringExpression": {
+                "qExpr": "=Only({<Sequence={23}>} [$(=vDataLanguage)])"
+              }
+            },
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": false,
+            "showDetails": true,
+            "showDetailsExpression": false,
+            "visualization": "listbox",
+            "autoConfirm": true,
+            "showTitle": false,
+            "layoutOptions": {
+              "dataLayout": "grid",
+              "layoutOrder": "column"
+            },
+            "searchEnabled": false
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "majXamL",
+          "qType": "sn-shape"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "shape": {
+          "orientation": "vertical",
+          "position": "center",
+          "style": {
+            "stroke": {
+              "colorByExpression": false,
+              "color": {
+                "index": 15
+              },
+              "colorExpression": "",
+              "width": 1,
+              "dash": {
+                "enabled": false,
+                "length": 8,
+                "spacing": 2
+              }
+            }
+          },
+          "type": "line"
+        },
+        "visualization": "sn-shape",
+        "version": "1.1.2",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "line-object",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Line",
+          "description": "Add vertical or horizontal lines with adjustable color and size. Use lines to divide objects, group parts, or to add flair to your dashboard.",
+          "template": "sn-shape",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "1.1.2",
+          "author": "QlikTech International AB",
+          "preview": "",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "gXqsPy",
+          "qType": "sn-shape"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "shape": {
+          "orientation": "horizontal",
+          "position": "center",
+          "style": {
+            "stroke": {
+              "colorByExpression": false,
+              "color": {
+                "index": 15
+              },
+              "colorExpression": "",
+              "width": 1,
+              "dash": {
+                "enabled": false,
+                "length": 8,
+                "spacing": 2
+              }
+            }
+          },
+          "type": "line"
+        },
+        "visualization": "sn-shape",
+        "version": "1.1.2",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "line-object",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Line",
+          "description": "Add vertical or horizontal lines with adjustable color and size. Use lines to divide objects, group parts, or to add flair to your dashboard.",
+          "template": "sn-shape",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "1.1.2",
+          "author": "QlikTech International AB",
+          "preview": "",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "Qvajzp",
+          "qType": "filterpane"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "visualization": "filterpane",
+        "version": "0.18.1",
+        "qChildListDef": {
+          "qData": {}
+        },
+        "components": [
+          {
+            "key": "general"
+          },
+          {
+            "key": "theme",
+            "content": {
+              "fontSize": "11px",
+              "fontStyle": {
+                "bold": true,
+                "italic": false,
+                "underline": false,
+                "normal": true
+              }
+            }
+          },
+          {
+            "key": "selections"
+          }
+        ]
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "79b2492e-c9eb-4593-8984-dfca06dc6a29",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "Relation"
+                ],
+                "qFieldLabels": [
+                  ""
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "eRKPm",
+                "textAlign": {
+                  "auto": false,
+                  "align": "center"
+                }
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "showTitles": true,
+              "title": "",
+              "subtitle": "",
+              "footnote": "",
+              "disableNavMenu": false,
+              "showDetails": true,
+              "showDetailsExpression": false,
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": "Relation",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": false,
+            "showDetails": true,
+            "showDetailsExpression": false,
+            "visualization": "listbox",
+            "layoutOptions": {
+              "dataLayout": "grid",
+              "layoutOrder": "column",
+              "maxVisibleColumns": {
+                "auto": true
+              },
+              "collapseMode": "never",
+              "dense": false
+            },
+            "showTitle": false,
+            "checkboxes": false,
+            "autoConfirm": true
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "EZrCfA",
+          "qType": "sn-text"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qLabel": "Biography",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=If(vNo > 0, Only({<Sequence={51}>} [$(=vDataLanguage)]), ' ')\r\n\n//=If(vNo > 0, 0, 1)\n\n//Please select a president to display",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAggrFunc": "None",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "BuFbvEY",
+                "numFormatFromTemplate": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=if(Count(distinct No) = 1, \r\n'◘ ' & Brief & Chr(10) & \n'◘ ' & [Description 1] & Chr(10) & \n'◘ ' & [Description 2], \nOnly({<Sequence={46}>} [$(=vDataLanguage)]))\n\n\n\n/*\n=if(Count(distinct No) = 1, \n'◘ ' & Brief & Chr(10) & \n'◘ ' & [Description 1] & Chr(10) & \n'◘ ' & [Description 2], \n'Please select a president name to display biography')\n*/\n\n\n\n/*\n '◘' \n \n \n =Only({<Sequence={39}>} [$(=vDataLanguage)])",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAggrFunc": "None",
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "XmRQmf",
+                "numFormatFromTemplate": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 500,
+              "qHeight": 10
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qDynamicScript": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            }
+          }
+        },
+        "script": "",
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "visualization": "sn-text",
+        "version": "1.1.4",
+        "text": "{\"root\":{\"children\":[{\"children\":[{\"expressionId\":\"BuFbvEY\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"20px\",\"fontFamily\":\"\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"expressionId\":\"XmRQmf\",\"formatStyle\":{\"fontWeight\":\"\",\"fontStyle\":\"italic\",\"textDecoration\":\"\",\"color\":\"\",\"fontSize\":\"17px\",\"fontFamily\":\"\\\"QlikView Sans\\\", sans-serif\"},\"type\":\"qlik.expression.node\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"left\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+        "fontsUsed": [],
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "text-object",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Text",
+          "description": "Display text, links, and measures. Add tables with rows and columns. Format and color the text. Add background image and color.",
+          "template": "sn-text",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "1.1.4",
+          "author": "QlikTech International AB",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "akRmEjr",
+          "qType": "text-image"
+        },
+        "qExtendsId": "55cb7b68-7b8b-4170-a925-cf370e2e0397",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "yWuRJj",
+          "qType": "sn-shape"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "shape": {
+          "orientation": "horizontal",
+          "position": "center",
+          "style": {
+            "stroke": {
+              "colorByExpression": false,
+              "color": {
+                "index": 15
+              },
+              "colorExpression": "",
+              "width": 1,
+              "dash": {
+                "enabled": false,
+                "length": 8,
+                "spacing": 2
+              }
+            }
+          },
+          "type": "line"
+        },
+        "visualization": "sn-shape",
+        "version": "1.1.2",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "line-object",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Line",
+          "description": "Add vertical or horizontal lines with adjustable color and size. Use lines to divide objects, group parts, or to add flair to your dashboard.",
+          "template": "sn-shape",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "1.1.2",
+          "author": "QlikTech International AB",
+          "preview": "",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "FmmEQm",
+          "qType": "sn-shape"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "shape": {
+          "orientation": "vertical",
+          "position": "center",
+          "style": {
+            "stroke": {
+              "colorByExpression": false,
+              "color": {
+                "index": 15
+              },
+              "colorExpression": "",
+              "width": 1,
+              "dash": {
+                "enabled": false,
+                "length": 8,
+                "spacing": 2
+              }
+            }
+          },
+          "type": "line"
+        },
+        "visualization": "sn-shape",
+        "version": "1.1.2",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "line-object",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Line",
+          "description": "Add vertical or horizontal lines with adjustable color and size. Use lines to divide objects, group parts, or to add flair to your dashboard.",
+          "template": "sn-shape",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "1.1.2",
+          "author": "QlikTech International AB",
+          "preview": "",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "sTzxzc",
+          "qType": "sn-shape"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [],
+        "shape": {
+          "orientation": "horizontal",
+          "position": "center",
+          "style": {
+            "stroke": {
+              "colorByExpression": false,
+              "color": {
+                "index": 15
+              },
+              "colorExpression": "",
+              "width": 1,
+              "dash": {
+                "enabled": false,
+                "length": 8,
+                "spacing": 2
+              }
+            }
+          },
+          "type": "line"
+        },
+        "visualization": "sn-shape",
+        "version": "1.1.2",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "line-object",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Line",
+          "description": "Add vertical or horizontal lines with adjustable color and size. Use lines to divide objects, group parts, or to add flair to your dashboard.",
+          "template": "sn-shape",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "1.1.2",
+          "author": "QlikTech International AB",
+          "preview": "",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "kpfmBM",
+          "qType": "action-button"
+        },
+        "qExtendsId": "a285635e-f0c0-40ee-9f76-81f289e5d6bd",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "ZmVyNG",
+          "qType": "action-button"
+        },
+        "qExtendsId": "94b52384-35d3-4703-aa3d-dbbf788b56c0",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "bswkPU",
+          "qType": "action-button"
+        },
+        "qExtendsId": "5bab5e2b-43e7-4f4b-9180-f5749dcd0f89",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "xFvqev",
+          "qType": "filterpane"
+        },
+        "qExtendsId": "e5c38ae6-ad26-4a25-8916-0d2b73a489aa",
+        "qMetaDef": {}
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "0c64e8c4-e3af-425b-9211-296ec8b9ade5",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "Position & Name"
+                ],
+                "qFieldLabels": [
+                  "Position & Name"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "GynPA"
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "showTitles": true,
+              "title": "",
+              "subtitle": "",
+              "footnote": "",
+              "disableNavMenu": false,
+              "showDetails": true,
+              "showDetailsExpression": false,
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": {
+              "qStringExpression": {
+                "qExpr": "Only({<Sequence={45}>} [$(=vDataLanguage)])"
+              }
+            },
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": false,
+            "showDetails": true,
+            "showDetailsExpression": false,
+            "visualization": "listbox",
+            "checkboxes": true,
+            "autoConfirm": true,
+            "showTitle": true
+          },
+          "qChildren": []
+        }
+      ]
+    }
+  ]
+}

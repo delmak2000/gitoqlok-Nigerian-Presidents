@@ -1,0 +1,18 @@
+///$tab language
+Language:
+LOAD
+    Language
+FROM [lib://Nigerian Presidents - Data/Languages.xlsx]
+(ooxml, embedded labels, table is Sheet1);
+
+
+
+// CrossTable(Language , Statement)
+// LOAD Nom, 
+//      Hausa, 
+//      Igbo, 
+//      Yoruba, 
+//      English
+// FROM
+// [lib://Nigerian Presidents - Data/Trans.xlsx]
+// (ooxml, embedded labels, table is Sheet1);

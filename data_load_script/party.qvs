@@ -1,0 +1,7 @@
+///$tab party
+//[Nigerian Presidents Party]:
+//LOAD [Party No], 
+//     Fact
+//FROM
+//[lib://Nigerian Presidents - Data/party.xlsx]
+//(ooxml, embedded labels, table is Sheet1);

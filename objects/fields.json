@@ -1,0 +1,315 @@
+[
+  {
+    "qName": "Age",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Age When President",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Born",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Brief",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents Brief"
+    ]
+  },
+  {
+    "qName": "Description 1",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents Facts"
+    ]
+  },
+  {
+    "qName": "Description 2",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents Facts"
+    ]
+  },
+  {
+    "qName": "Died",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "English",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Translations"
+    ]
+  },
+  {
+    "qName": "First Name",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "From",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Full Name",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Hausa",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Translations"
+    ]
+  },
+  {
+    "qName": "Help",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Application Info"
+    ]
+  },
+  {
+    "qName": "Igbo",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Translations"
+    ]
+  },
+  {
+    "qName": "Info",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Application Info"
+    ]
+  },
+  {
+    "qName": "Language",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Language"
+    ],
+    "qAlwaysOneSelected": true
+  },
+  {
+    "qName": "Last Names",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Mortality",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "No",
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents",
+      "Semantic Presidents",
+      "Semantic Presidents",
+      "Nigerian Presidents Brief",
+      "Nigerian Presidents Facts",
+      "Nigerian Presidents Photos"
+    ]
+  },
+  {
+    "qName": "Origin",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Party",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Photo",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents Photos"
+    ]
+  },
+  {
+    "qName": "Position & Name",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Re-Elected",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Region",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qIsSemantic": true,
+    "qName": "Relation",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Semantic Presidents",
+      "Semantic Presidents"
+    ]
+  },
+  {
+    "qName": "Religion",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Sequence",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Translations"
+    ]
+  },
+  {
+    "qName": "Term",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "To",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Nigerian Presidents"
+    ]
+  },
+  {
+    "qName": "Yoruba",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Translations"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+///$tab semantic presidents
+Alias P1 as No, P2 as No;
+
+[Semantic Presidents]:
+Semantic Load
+	Previous(No) as P1,			
+	'Successor' as Relation,
+	No as P2,								
+	'Predecessor' as Relation
+resident [Nigerian Presidents]; // where Exists('Sequence',P1) and Exists('Sequence',P2);

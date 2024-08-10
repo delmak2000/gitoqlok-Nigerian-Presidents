@@ -1,0 +1,28 @@
+{
+  "qInfo": {
+    "qId": "eEfb",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Origin"
+    ],
+    "qFieldLabels": [
+      "State of Origin"
+    ],
+    "qLabelExpression": "Only({<Sequence={7}>} [$(=vDataLanguage)])",
+    "qAlias": "State of Origin",
+    "title": "State of Origin",
+    "coloring": {
+      "changeHash": "0.511940388258878",
+      "hasValueColors": false,
+      "colorMapRef": "eEfb"
+    }
+  },
+  "qMetaDef": {
+    "title": "State of Origin",
+    "description": "",
+    "tags": []
+  }
+}

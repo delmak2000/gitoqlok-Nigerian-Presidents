@@ -1,0 +1,107 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "a285635e-f0c0-40ee-9f76-81f289e5d6bd",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "Home - Button",
+      "description": "",
+      "tags": []
+    },
+    "runtimeExpressionEvaluation": false,
+    "actions": [],
+    "navigation": {
+      "action": "goToSheet",
+      "appId": "",
+      "sheet": "c0a511bf-4391-4850-b808-071b2b061549",
+      "chartId": "",
+      "story": "",
+      "websiteUrl": "",
+      "sameWindow": false,
+      "odagLink": ""
+    },
+    "useEnabledCondition": false,
+    "enabledCondition": 1,
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "disableNavMenu": true,
+    "showDetails": false,
+    "showDetailsExpression": false,
+    "style": {
+      "label": {
+        "qStringExpression": {
+          "qExpr": "Only({<Sequence={33}>} [$(=vDataLanguage)])"
+        }
+      },
+      "showLabel": true,
+      "icon": {
+        "useIcon": true,
+        "iconType": "home",
+        "position": "left"
+      },
+      "font": {
+        "fontFamily": "Trebuchet MS, sans-serif",
+        "useColorExpression": false,
+        "color": {
+          "index": 1,
+          "color": "#ffffff"
+        },
+        "colorExpression": "",
+        "size": 0.57,
+        "sizeFixed": 20,
+        "sizeBehavior": "responsive",
+        "style": {
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        "align": "center"
+      },
+      "background": {
+        "useColorExpression": false,
+        "color": {
+          "index": 12,
+          "color": "#b0afae"
+        },
+        "colorExpression": "",
+        "mode": "none",
+        "useImage": false,
+        "url": {
+          "qStaticContentUrlDef": {}
+        },
+        "size": "auto",
+        "position": "centerCenter"
+      },
+      "border": {
+        "useColorExpression": false,
+        "color": {
+          "index": -1,
+          "color": "none"
+        },
+        "colorExpression": "",
+        "useBorder": false,
+        "radius": 0,
+        "width": 0
+      }
+    },
+    "components": [
+      {
+        "key": "general",
+        "title": {
+          "footer": {},
+          "main": {
+            "fontFamily": "American Typewriter, serif"
+          }
+        }
+      }
+    ],
+    "visualization": "action-button",
+    "version": "1.36.1",
+    "masterVersion": 0.96,
+    "appId": "C:\\Users\\Qlik\\Documents\\Qlik\\Sense\\Apps\\Nigerian Presidents.qvf"
+  },
+  "qChildren": []
+}

@@ -1,0 +1,28 @@
+{
+  "qInfo": {
+    "qId": "QfZAUUv",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Age"
+    ],
+    "qFieldLabels": [
+      "Age"
+    ],
+    "qLabelExpression": "Only({<Sequence={25}>} [$(=vDataLanguage)])",
+    "qAlias": "Age",
+    "title": "Age",
+    "coloring": {
+      "changeHash": "0.8552974915414526",
+      "hasValueColors": false,
+      "colorMapRef": "QfZAUUv"
+    }
+  },
+  "qMetaDef": {
+    "title": "Age",
+    "description": "",
+    "tags": []
+  }
+}

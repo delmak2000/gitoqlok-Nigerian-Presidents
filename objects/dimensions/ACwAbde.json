@@ -1,0 +1,28 @@
+{
+  "qInfo": {
+    "qId": "ACwAbde",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Region"
+    ],
+    "qFieldLabels": [
+      "Region"
+    ],
+    "qLabelExpression": "Only({<Sequence={24}>} [$(=vDataLanguage)])",
+    "qAlias": "Region",
+    "title": "Region",
+    "coloring": {
+      "changeHash": "0.8537425210018854",
+      "hasValueColors": false,
+      "colorMapRef": "ACwAbde"
+    }
+  },
+  "qMetaDef": {
+    "title": "Region",
+    "description": "",
+    "tags": []
+  }
+}

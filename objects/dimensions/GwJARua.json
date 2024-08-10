@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "GwJARua",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "H",
+    "qFieldDefs": [
+      "Region",
+      "Origin"
+    ],
+    "qFieldLabels": [],
+    "qAlias": "Drilldown",
+    "title": "Drilldown",
+    "coloring": {
+      "changeHash": "0.8620880810118678",
+      "hasValueColors": false
+    }
+  },
+  "qMetaDef": {
+    "title": "Drilldown",
+    "description": "",
+    "tags": []
+  }
+}

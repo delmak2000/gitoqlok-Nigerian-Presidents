@@ -1,0 +1,24 @@
+///$tab presidents
+[Nigerian Presidents]:
+LOAD No, 
+     [First Name], 
+     [Last Names], 
+//      [First Name] & ' ' & [Last Names] & ' ' & [Re-Elected] as Name,
+     [First Name] & ' ' & [Last Names] as [Full Name],
+     No & ' - ' & [First Name] & ' ' & [Last Names] as [Position & Name],     
+     Born, 
+     Died, 
+     If(Len(Trim(Died)) > 0, Died - Born, Year(Today()) - Born) as Age,
+     From - Born as [Age When President],     
+     Origin, 
+     Religion, 
+     Party, 
+     From, 
+     To, 
+     To - From as Term,
+     If([Re-Elected]='*', 'Yes', 'No') as [Re-Elected],
+     Mortality,
+     Region
+FROM
+[lib://Nigerian Presidents - Data/Nigerian Presidents.xlsx]
+(ooxml, embedded labels, table is Sheet1);

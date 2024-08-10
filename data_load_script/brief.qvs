@@ -1,0 +1,7 @@
+///$tab brief
+[Nigerian Presidents Brief]:
+LOAD No, 
+     Brief
+FROM
+[lib://Nigerian Presidents - Data/brief.xlsx]
+(ooxml, embedded labels, table is Sheet1);

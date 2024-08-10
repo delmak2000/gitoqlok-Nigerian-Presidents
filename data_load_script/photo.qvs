@@ -1,0 +1,36 @@
+///$tab photo
+// [Nigerian Presidents Photos]:
+// Bundle LOAD 
+// 	 No, 
+//      Photo
+// FROM
+// [lib://Nigerian Presidents%20-%20Photo/President photos.xlsx]
+// (ooxml, embedded labels, table is Sheet1);
+
+
+
+[Nigerian Presidents Photos]:
+Load * Inline [
+No, Photo
+1, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/1%20-%20Azikiwe_1960.jpg'
+2, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/2%20-%20Aguiyi_Ironsi.jpg'
+3, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/3%20-%20Yakubu_1966.jpg'
+4, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/4%20-%20Muritala_Mohammed.jpg'
+5, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/5%20-%20Olusegun_Obasanjo.jpg'
+6, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/6%20-%20Shagari_1979.jpg'
+7, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/7%20-%20Buhari_1983.jpg'
+8, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/8%20-%20Babangida_1985.jpg'
+9, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/9%20-%20Ernest_Shonekan.jpg'
+10, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/10%20-%20Sani_Abacha.jpg'
+11, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/11%20-%20Abubakar_1998.jpg'
+12, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/12%20-%20Obasanjo_1999.jpg'
+13, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/13%20-%20Yaradua_2007.jpg'
+14, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/14%20-%20Goodluck_Jonathan.jpg'
+15, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/15%20-%20Buhari_2015.jpg'
+16, 'http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/16%20-%20Bola_Tinubu_2023.jpg'
+];
+
+
+// "C:\Users\Qlik\Documents\Qlik\Sense\Content\Default\President Photos\1 - Azikiwe_1960.jpg"
+
+//http://localhost:4848/media/a080858b1f2e2fb0859a878b0c760462/President%20Photos/1%20-%20Azikiwe_1960.jpg

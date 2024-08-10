@@ -1,0 +1,7 @@
+///$tab application info
+[Application Info]:
+LOAD
+    Help,
+    Inf AS "Info"
+FROM [lib://Nigerian Presidents - Data/AppInfo.xls]
+(biff, embedded labels, table is Sheet1$);

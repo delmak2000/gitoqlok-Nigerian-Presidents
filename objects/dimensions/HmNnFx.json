@@ -1,0 +1,29 @@
+{
+  "qInfo": {
+    "qId": "HmNnFx",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "C",
+    "qFieldDefs": [
+      "Party",
+      "Origin",
+      "Religion",
+      "Mortality",
+      "Region"
+    ],
+    "qFieldLabels": [],
+    "qAlias": "Cyclic",
+    "title": "Cyclic",
+    "coloring": {
+      "changeHash": "0.6185596662911792",
+      "hasValueColors": false,
+      "colorMapRef": "HmNnFx"
+    }
+  },
+  "qMetaDef": {
+    "title": "Cyclic",
+    "description": "",
+    "tags": []
+  }
+}

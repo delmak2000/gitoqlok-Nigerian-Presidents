@@ -1,0 +1,28 @@
+{
+  "qInfo": {
+    "qId": "hqAdEP",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Full Name"
+    ],
+    "qFieldLabels": [
+      "President"
+    ],
+    "qLabelExpression": "Only({<Sequence={10}>} [$(=vDataLanguage)])",
+    "qAlias": "President",
+    "title": "President",
+    "coloring": {
+      "changeHash": "0.3400641518764562",
+      "hasValueColors": false,
+      "colorMapRef": "hqAdEP"
+    }
+  },
+  "qMetaDef": {
+    "title": "President",
+    "description": "",
+    "tags": []
+  }
+}

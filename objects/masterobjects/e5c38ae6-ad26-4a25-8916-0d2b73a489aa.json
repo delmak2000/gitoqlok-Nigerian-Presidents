@@ -1,0 +1,95 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "e5c38ae6-ad26-4a25-8916-0d2b73a489aa",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "FIlter - Position & Name",
+      "description": "",
+      "tags": []
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "disableNavMenu": true,
+    "showDetails": false,
+    "showDetailsExpression": false,
+    "visualization": "filterpane",
+    "version": "0.18.1",
+    "qChildListDef": {
+      "qData": {}
+    },
+    "components": [
+      {
+        "key": "general",
+        "borderRadius": "0px"
+      }
+    ],
+    "masterVersion": 0.96
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "ebaae102-d344-43a0-bee2-7e721b511a6d",
+          "qType": "listbox"
+        },
+        "qMetaDef": {},
+        "qListObjectDef": {
+          "qDef": {
+            "qGrouping": "N",
+            "qFieldDefs": [
+              "Position & Name"
+            ],
+            "qFieldLabels": [
+              "Position & Name"
+            ],
+            "qSortCriterias": [
+              {
+                "qSortByState": 1,
+                "qSortByNumeric": 1,
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              }
+            ],
+            "qNumberPresentations": [],
+            "qActiveField": 0,
+            "autoSort": true,
+            "cId": "GynPA"
+          },
+          "qFrequencyMode": "N",
+          "qShowAlternatives": true,
+          "qInitialDataFetch": [],
+          "qExpressions": [],
+          "showTitles": true,
+          "title": "",
+          "subtitle": "",
+          "footnote": "",
+          "disableNavMenu": false,
+          "showDetails": true,
+          "showDetailsExpression": false,
+          "qOtherTotalSpec": {}
+        },
+        "showTitles": true,
+        "title": {
+          "qStringExpression": {
+            "qExpr": "Only({<Sequence={45}>} [$(=vDataLanguage)])"
+          }
+        },
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "visualization": "listbox",
+        "checkboxes": true,
+        "autoConfirm": true,
+        "showTitle": true
+      },
+      "qChildren": []
+    }
+  ]
+}
