@@ -11,7 +11,6 @@ Sheet Title | Description
 Nigeria President's Stats|
 Nigeria President's Profile|
 About Nigeria Presidents|
-My new sheet (1)|
 
 
 
